@@ -13,3 +13,4 @@ if __name__=='__main__':
     ex=App()
     app.exec_()
     print("qwe")
+# dsfl's;'f
